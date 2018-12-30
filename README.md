@@ -1,4 +1,4 @@
-# qt_<LANG>.ts
+# qt_languages_ts
 
 Qt5 Combined Language Pack for languages. All In One!
 
